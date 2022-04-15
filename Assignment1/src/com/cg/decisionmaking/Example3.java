@@ -21,7 +21,7 @@ public class Example3
 			       {
 				System.out.println("Not eligible for bunjee jumping");
 			}
-			   else
+		else 
 			   {
 				  System.out.println("Not eligible for bunjee jumping");
 				  
