@@ -2,8 +2,8 @@ package com.cg.decisionmaking;
 
 public class Example3 
 {
-	int age=15 , weight= 55; 
-	if(age>=12)
+	int age=15 , weight= 55;
+	
 	{
 		if(weight>=40)
 		{
@@ -21,15 +21,12 @@ public class Example3
 			       {
 				System.out.println("Not eligible for bunjee jumping");
 			}
-		else 
-			   {
-				  System.out.println("Not eligible for bunjee jumping");
-				  
-			   }			
+		
+			 			
 	} 
  }
 
 		
-}
+
 
  
