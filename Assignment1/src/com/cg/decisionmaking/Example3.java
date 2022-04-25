@@ -2,7 +2,7 @@ package com.cg.decisionmaking;
 
 public class Example3 
 {
-	int age=15 , weight= 55 ;
+	int age=15 , weight= 55; 
 	if(age>=12)
 	{
 		if(weight>=40)
